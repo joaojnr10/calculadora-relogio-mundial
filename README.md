@@ -30,7 +30,7 @@ Clique para acessar:
     ├── calculadora.js
     └── relogio.js
 
--🧮 Calculadora
+- 🧮 Calculadora
 
 A calculadora permite:
 
