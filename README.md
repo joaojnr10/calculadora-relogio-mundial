@@ -16,20 +16,6 @@ Clique para acessar:
 
 👉 https://joaojnr10.github.io/calculadora-relogio-mundial/
 
--📂 Estrutura do projeto
-/
-│
-├── index.html
-├── calculadora.html
-├── relogio.html
-│
-├── css/
-│   └── style.css
-│
-└── js/
-    ├── calculadora.js
-    └── relogio.js
-
 - 🧮 Calculadora
 
 A calculadora permite:
