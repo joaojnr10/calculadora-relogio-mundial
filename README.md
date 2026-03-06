@@ -1,75 +1,33 @@
-- 🧮 Calculadora e Relógio Mundial
+ 🧮 Calculadora + 🌎 Relógio Mundial
 
-Este é um site simples feito com HTML, CSS e JavaScript que contém:
+Projeto desenvolvido com **HTML, CSS e JavaScript** que reúne duas funcionalidades:
 
-- 🧮 Uma calculadora funcional
+- 🧮 Calculadora funcional (soma, subtração, multiplicação e divisão)
+- 🌎 Relógio mundial com horários em tempo real
 
-- 🌎 Um relógio mundial com diferentes fusos horários
-
-🔗 Navegação entre páginas
-
-📱 Layout responsivo
-
-- 🌐 Acesse o site online
-
-Clique para acessar:
+## 🌐 Acesse o projeto
 
 👉 https://joaojnr10.github.io/calculadora-relogio-mundial/
 
-- 🧮 Calculadora
+## 🌎 Fusos horários exibidos
 
-A calculadora permite:
+🇧🇷 Brasil (São Paulo)  
+🇺🇸 Nova York  
+🇬🇧 Londres  
+🇯🇵 Tóquio  
 
-➕ Somar
+⏱ Atualização automática a cada segundo.
 
-➖ Subtrair
+## 🛠 Tecnologias
 
-✖ Multiplicar
+- HTML5  
+- CSS3  
+- JavaScript  
 
-➗ Dividir
+## 📱 Responsividade
 
-🧹 Limpar valores
+Compatível com **celular, tablet e computador**.
 
-⬅ Apagar números
+## 👨‍💻 Autor
 
-✅ Mostrar resultado
-
-- 🌎 Relógio Mundial
-
-O relógio mostra o horário em tempo real de:
-
-🇧🇷 Brasil (São Paulo)
-
-🇺🇸 Nova York
-
-🇬🇧 Londres
-
-🇯🇵 Tóquio
-
-⏱ Atualiza automaticamente a cada segundo.
-
-- 🛠 Tecnologias usadas
-
-HTML5
-
-CSS3
-
-JavaScript
-
-📱 Responsividade
-
-- O site funciona em:
-
-📱 Celular
-
-📟 Tablet
-
-💻 Computador
-
-- 👨‍💻 Autor
-
-Feito por: JOÃO
-
-- 📌 Observação
-
-Projeto criado para aprendizado de programação e prática com JavaScript.
+Desenvolvido por **João** para prática de programação
